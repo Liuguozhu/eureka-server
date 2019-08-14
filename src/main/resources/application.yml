@@ -12,7 +12,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+# 多个注册中心用下面这个配置，然后直接启动两个端口不同的注册中心即可，当有多个注册中心时，服务只要向一个注册中心注册就可以了。因为所有的注册中心都是彼此相连的。
+#      defaultZone: http://127.0.0.1:2200/eureka/,http://127.0.0.1:2201/eureka/
     registerWithEureka: false
     fetchRegistry: false
-
-
