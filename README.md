@@ -10,8 +10,8 @@ eureka server demo
 - Zuul
 
 ## 文档 (document)
-[手把手教你搭建微服务 (spring boot +spring cloud+eureka+zuul）](https://www.zhihu.com/people/liuguozhu/activities)
+[手把手教你搭建微服务 (spring boot +spring cloud+eureka+zuul）](https://zhuanlan.zhihu.com/p/72135562)
 
 ## 关联项目 (correlation)
 - [微服务之路由 (zuul-server）](https://github.com/Liuguozhu/zuul-server)
-- [微服务之业务服务 (games-lobby）](https://www.zhihu.com/people/liuguozhu/activities)
+- [微服务之业务服务 (games-lobby）](https://zhuanlan.zhihu.com/p/72135562)
